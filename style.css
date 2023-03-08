@@ -1,0 +1,24 @@
+h1{
+    text-align: center;
+}
+main{
+    margin: auto;
+    background-color: #b3b3b3;
+    width: 500px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    line-height: 200px;
+}
+div div{
+    background-color: #dad9d9;
+    width: 200px;
+    height: 100px;
+    line-height: 100px;
+    padding: 5px;
+    justify-content: center;
+    margin: 10px;
+    display: inline-flex;
+    /* offset-x | offset-y | blur-radius | color */
+    box-shadow: 7px 7px 10px #5c5c5c;
+}
